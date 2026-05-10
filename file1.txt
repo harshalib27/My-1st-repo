@@ -1,2 +1,3 @@
 before first file this is the line
-first file 
+first file
+second file
